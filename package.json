@@ -1,0 +1,13 @@
+{
+  "name": "latexEqualityT",
+  "version": "0.0.1",
+  "description": "A tool to test latex formula equality",
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jison": "^0.4.15"
+  },
+  "author": "Artheru",
+  "license": "MIT"
+}
